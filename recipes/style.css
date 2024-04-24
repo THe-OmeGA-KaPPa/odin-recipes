@@ -1,0 +1,44 @@
+*{
+    background-color:red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+img{
+    border: 2px solid black;
+    border-radius: 35px;
+}
+
+h1{
+    color:blue;
+    border: 2px solid black;
+    border-radius: 25px;
+    padding:10px
+}
+
+h2,h3{
+    color:blueviolet;
+}
+
+ul li, ol li{
+    text-align: left;
+}
+
+p{
+    color:blue
+}
+
+ul li{
+    color:#e2fb00;
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+
+ol li strong {
+    text-decoration: underline;
+    color:blue
+}
+
+ol li{
+    color:aqua;
+}
