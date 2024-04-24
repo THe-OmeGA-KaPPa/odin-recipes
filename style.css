@@ -1,0 +1,33 @@
+body{
+    background-color : hwb(267 5% 1%);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.head-1{
+    color:#eeff00;
+    text-shadow: hsl(0, 0%, 0%);
+    text-decoration: underline;
+    font-size:50px;
+    
+}
+
+.head-1, ul {
+
+}
+
+ul li a{
+    color:black;
+    text-decoration: none;  
+}
+
+ul{
+   list-style-type: none;
+   
+
+}
+
+
+ul li a:hover{
+    color: red;
+}
