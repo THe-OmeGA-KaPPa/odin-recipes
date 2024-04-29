@@ -7,4 +7,4 @@ Through this project knowledge of implementing anchor tags, images tags, heading
 Overall knowledge of file structure was also strengthened through this project.
 
 
-Added css to all html file as part of practice during course.
+Added css to all html files as part of practice during course.
